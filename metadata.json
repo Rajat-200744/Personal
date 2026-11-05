@@ -1,0 +1,6 @@
+{
+  "name": "Groundwork - Evidence-Based Situation Guidance",
+  "description": "An empathetic, scientifically grounded decision console providing proven behavioral, psychological, and negotiation feedback for complex life situations.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
